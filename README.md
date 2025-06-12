@@ -1,17 +1,18 @@
-# 📱 Staj Projesi – Flutter Mobil Uygulama
+# Kişisel Finans Uygulaması – Flutter Mobil Uygulama
 
 Merhaba! Ben İrem. Bu repo, Flutter kullanarak gerçekleştirdiğim staj projemin kaynak kodlarını içermektedir. Bu proje sayesinde hem Firebase entegrasyonu hem de kullanıcı arayüzü geliştirme konularında deneyim kazandım.
 
-## 🔍 Proje Özeti
+## Proje Özeti
 
 Uygulama, kullanıcıların:
 - Firebase Authentication ile giriş yapabilmesini,
 - Gerçek zamanlı veri akışı sağlayan Firebase Database & Firestore bağlantılarını,
 - Grafikler (fl_chart) üzerinden verileri görselleştirebilmesini,
 - Firebase Storage üzerinden medya dosyalarını yönetmesini,
-- Video oynatma (video_player) özelliklerini kullanabilmesini sağlar.
+- Gelir ve Giderlerin kategorik olarak ayrılması
+- Kullanıcıların kendilerine hedef belirleyelme ve takip edebilmesi 
 
-## 🚀 Kullanılan Teknolojiler ve Paketler
+## Kullanılan Teknolojiler ve Paketler
 
 | Paket | Açıklama |
 |-------|----------|
@@ -23,12 +24,13 @@ Uygulama, kullanıcıların:
 | `provider` | State management (durum yönetimi) |
 | `cupertino_icons` | iOS tarzı simgeler |
 
-## 📸 Ekran Görüntüleri
+## Ekran Videosu
 
-> **Not**: Ekran görüntüleri `assets/images/` klasöründe yer alıyor. Örneğin:
-> ![Uygulama Arka Plan](assets/images/background.jpg)
+Projeme ait videoyu aşağıdaki linkten izleyebilirsiniz.
 
-## 🛠️ Kurulum Talimatları
+https://drive.google.com/file/d/1MvOhnQ07boMed_GrqsFnwoC4yjH7AJwj/view?usp=sharing
+
+## Kurulum Talimatları
 
 Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 
