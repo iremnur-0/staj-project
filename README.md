@@ -17,7 +17,6 @@ Uygulama, kullanıcıların:
 | Paket | Açıklama |
 |-------|----------|
 | `flutter` | Mobil uygulama çatısı |
-| `video_player` | Uygulama içinde video oynatma |
 | `firebase_core`, `firebase_auth`, `firebase_database`, `cloud_firestore`, `firebase_storage` | Firebase servisleriyle tam entegrasyon |
 | `fl_chart` | Grafik ve veri görselleştirme |
 | `intl` | Tarih/saat ve çoklu dil desteği |
